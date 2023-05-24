@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CustomKeywordsDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>336bc7d0-a7fd-4ace-a273-16a683b22b61</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8449be5-bf70-4f4e-a79a-a8b91ed2d01c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9b10797-0087-4f8d-aeba-0b8dee334552</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e51ab5d-a363-4484-b518-f037ea3014ee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'sagar\r\n'</defaultValue>
+      <description></description>
+      <id>b8449be5-bf70-4f4e-a79a-a8b91ed2d01c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'sunar\r\n'</defaultValue>
+      <description></description>
+      <id>b9b10797-0087-4f8d-aeba-0b8dee334552</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234\r\n'</defaultValue>
+      <description></description>
+      <id>1e51ab5d-a363-4484-b518-f037ea3014ee</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+</TestCaseEntity>
