@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>035798b7-8f90-488c-94f4-b50772ff0178</webElementGuid>
+      <webElementGuid>4ed6fba9-376b-4f36-9c3f-a5c3bdb5e0fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--active</value>
-      <webElementGuid>f0652468-5df8-4622-80d5-0bd4661b6dc1</webElementGuid>
+      <webElementGuid>26aef4f7-3961-4043-a290-17f6dbdc4d2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>87092405-9155-4867-a5c3-379da21c3df8</webElementGuid>
+      <webElementGuid>1f022d22-867a-47f8-b56c-fa0f176114c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>943a02d2-4f99-4451-a0ae-32d70142ec98</webElementGuid>
+      <webElementGuid>6bd8fccd-dfd6-460b-aa48-3c689d537178</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Password</value>
-      <webElementGuid>7244d057-1c4e-41fb-97fb-6f55bb3511c7</webElementGuid>
+      <webElementGuid>11fd3a4c-df84-4d6b-b759-ef17046d0705</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;orangehrm-login-layout&quot;]/div[@class=&quot;orangehrm-login-layout-blob&quot;]/div[@class=&quot;orangehrm-login-container&quot;]/div[@class=&quot;orangehrm-login-slot-wrapper&quot;]/div[@class=&quot;orangehrm-login-slot&quot;]/div[@class=&quot;orangehrm-login-form&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--active&quot;]</value>
-      <webElementGuid>400e2691-7ffd-4e0b-b8cb-1672fdb78714</webElementGuid>
+      <webElementGuid>6205cd88-b5c2-47c8-80d7-674597ff7896</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='password']</value>
-      <webElementGuid>fea845a1-1c57-40b9-89f4-181af0476406</webElementGuid>
+      <webElementGuid>28b40e29-4a55-40e4-9e63-28953c9419b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div/div/div/div[2]/div[2]/form/div[2]/div/div[2]/input</value>
-      <webElementGuid>b301b3f7-e83e-4230-84c8-3c41b463f368</webElementGuid>
+      <webElementGuid>6c33c953-1da6-445c-8f1e-7e40501fab00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/input</value>
-      <webElementGuid>f35b2dd4-ac66-4350-b18c-1c02a81870c6</webElementGuid>
+      <webElementGuid>87d2eb0e-7c2d-486e-bb8d-c3a3097d732a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'password' and @placeholder = 'Password']</value>
-      <webElementGuid>f129ba41-a9f1-4f95-b310-acf7f28dd0ab</webElementGuid>
+      <webElementGuid>f3e93d4d-b766-47a2-a5ed-080fd552856d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

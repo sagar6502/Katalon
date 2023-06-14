@@ -24,17 +24,17 @@ public class MyKeywords {
 	def hello() {
 		println(" Hello World ")
 	}
-	
+
 	@Keyword(keywordObject = 'login')
 	def login() {
 		WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Username_username'), 'Admin123')
-		
+
 		WebUI.setEncryptedText(findTestObject('Object Repository/Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
-		
+
 		WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Login'))
 	}
-	
-	
+
+
 	@Keyword(keywordObject = 'hello')
 	def helloUser(String user) {
 		println "Hello "+user

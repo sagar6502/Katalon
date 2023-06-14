@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Whiteboards</name>
+   <tag></tag>
+   <elementGuidId>9287ccb4-515a-4a66-9eeb-0d3bf7f275dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__a11yId2']/div/div/div/div/div/ul/li/ul/li[4]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(4) > a.sU9jOQ._2f_7cQ.aiE6Dw.qN_0PQ > div.ZU4_lw.CP1jQw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>924d434b-9127-4464-a027-8964473816a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ZU4_lw CP1jQw</value>
+      <webElementGuid>a29b32c1-d165-44b1-9258-36d16d2fb5f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Whiteboards</value>
+      <webElementGuid>b520e64e-a72b-49af-a360-95b1ef279564</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__a11yId2&quot;)/div[@class=&quot;_23epYA&quot;]/div[@class=&quot;_7jffaw BOORbA TfRV3Q PB0rzw&quot;]/div[@class=&quot;l4EOAw&quot;]/div[@class=&quot;bb6R6Q VxhppQ&quot;]/div[@class=&quot;Vuyc0A&quot;]/ul[@class=&quot;mUF4mg _8i_uxQ _7g6uVg SxTWIQ fFOiLQ&quot;]/li[1]/ul[@class=&quot;XlJIZw SxTWIQ fFOiLQ hd9s5Q&quot;]/li[4]/a[@class=&quot;sU9jOQ _2f_7cQ aiE6Dw qN_0PQ&quot;]/div[@class=&quot;ZU4_lw CP1jQw&quot;]</value>
+      <webElementGuid>32883337-dad2-4e16-ad40-4565cb2673ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__a11yId2']/div/div/div/div/div/ul/li/ul/li[4]/a/div</value>
+      <webElementGuid>2b6e5b6e-8924-4894-a721-7195b18d27ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Presentations'])[1]/following::div[1]</value>
+      <webElementGuid>d14e2b97-ab0c-4f28-bff6-c3053249d68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Docs'])[1]/following::div[2]</value>
+      <webElementGuid>91929274-9ef8-4f68-93fb-5ca346ac3082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF editor'])[1]/preceding::div[1]</value>
+      <webElementGuid>f7a051bd-7366-43f9-806c-9ab90bee9c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Graphs and charts'])[1]/preceding::div[2]</value>
+      <webElementGuid>a3af149b-a440-4fba-bae1-d0dff6809ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Whiteboards']/parent::*</value>
+      <webElementGuid>064115a7-e06d-4ed0-8701-afa2362ee1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div</value>
+      <webElementGuid>4479e7d2-6f28-462f-b85c-3be908a9e6b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Whiteboards' or . = 'Whiteboards')]</value>
+      <webElementGuid>4db787d6-da41-42ad-babf-4d4276489e13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

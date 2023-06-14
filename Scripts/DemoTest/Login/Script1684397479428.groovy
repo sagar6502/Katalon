@@ -1,5 +1,4 @@
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -17,14 +16,23 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+
+// Set Chrome to run in headless mode
+System.setProperty('chrome_arguments', '--headless')
+
+// Open browser in headless mode
+DriverFactory.createWebDriver()
 
 def name = 'Sagar'
 
-println ' My name is '+name
+println(' My name is ' + name)
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F')
 
 WebUI.click(findTestObject('Object Repository/Page_Your store. Login/button_Log in'))
+
+WebUI.acceptAlert()
 

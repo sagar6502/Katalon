@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_(opens in a new tab or window)__1Qox_90ff9f</name>
+   <tag></tag>
+   <elementGuidId>3e23801d-68f8-4254-a15a-7539095a1601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._1QoxDw.Qkd66A.tYI0Vw.o4TrkA.z6Gm7g.Eph8Hg.cclg9A.G97FoQ.vwGvLA.Qkd66A.tYI0Vw.bpNGqA.cwOZMg.zQlusQ.uRvRjQ.T2s_Vg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e196e80e-9d5b-4d0e-952f-f2a9b79ef448</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_1QoxDw Qkd66A tYI0Vw o4TrkA z6Gm7g Eph8Hg cclg9A G97FoQ vwGvLA Qkd66A tYI0Vw bpNGqA cwOZMg zQlusQ uRvRjQ T2s_Vg</value>
+      <webElementGuid>588987c5-ae1e-45a0-8e5a-b45820956ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd1294d6-1013-44f8-9e5c-c92897a1c251</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close</value>
+      <webElementGuid>01a104e4-8eef-4576-a881-7eaca5b4df21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme light&quot;]/div[@class=&quot;NqU4Yg&quot;]/div[@class=&quot;NqU4Yg&quot;]/div[@class=&quot;_9HetvA&quot;]/div[@class=&quot;theme light&quot;]/div[@class=&quot;MxhaIQ R4vkCQ _5aUrJg&quot;]/div[@class=&quot;IywfPg _5aUrJg&quot;]/div[@class=&quot;i7NByQ&quot;]/button[@class=&quot;_1QoxDw Qkd66A tYI0Vw o4TrkA z6Gm7g Eph8Hg cclg9A G97FoQ vwGvLA Qkd66A tYI0Vw bpNGqA cwOZMg zQlusQ uRvRjQ T2s_Vg&quot;]</value>
+      <webElementGuid>f1968ab6-6eeb-40e1-91b9-ac9338dc9934</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>bdbac838-1285-4bc0-9b79-fe4ed19c347a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(opens in a new tab or window)'])[2]/following::button[1]</value>
+      <webElementGuid>42eb3891-fa50-4012-b443-66a994781709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/preceding::button[1]</value>
+      <webElementGuid>8ca8a218-1ae4-41ad-b1a8-4491833fc01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canva home'])[1]/preceding::button[2]</value>
+      <webElementGuid>b4bcb067-adbd-4e0e-8901-7be2d7f33c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>05900a4e-1cb4-41fa-877b-382a311e5bf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>b0fa9313-6c08-4e76-a0b4-3e1bc67521ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

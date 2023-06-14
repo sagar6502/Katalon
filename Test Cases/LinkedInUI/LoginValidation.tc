@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginValidation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eef38a3-619b-4fd3-85e3-c16325113d1c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>233115e7-3cf9-4458-b800-50ae28914fff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.linkedin.com/checkpoint/lg/sign-in-another-account'</defaultValue>
+      <description></description>
+      <id>233115e7-3cf9-4458-b800-50ae28914fff</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>
